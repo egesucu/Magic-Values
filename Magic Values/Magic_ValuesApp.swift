@@ -11,7 +11,7 @@ import SwiftUI
 struct Magic_ValuesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BadView()
         }
     }
 }
